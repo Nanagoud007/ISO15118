@@ -340,9 +340,7 @@
 ## Slide 16: Thank You
 
 ### Contact Information
-📧 **Email**: [Your Email]
-📱 **Phone**: [Your Phone]
-🌐 **Website**: [Your Website]
+📧 **Email**: [nanagoud.t@numocity.com]
 
 ### Questions & Discussion
 ❓ **Open for questions**
