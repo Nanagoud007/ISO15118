@@ -104,7 +104,7 @@
 - ISO 15118-20:2022 (V2G requirements)
 
 ### **Industry Organizations:**
-- **CharIN**: [https://www.charin.global/](https://www.charin.global/technology/v2g/)
+- **CharIN**: https://www.charin.global/
 - **OCA**: https://www.openchargealliance.org/
 - **ISO**: https://www.iso.org/
 
