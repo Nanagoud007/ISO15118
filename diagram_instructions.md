@@ -1,35 +1,5 @@
-# Visual Diagram Creation Instructions
+# Visual Diagram
 
-## 🎨 Tools for Creating Professional Diagrams
-
-### **Recommended Tools:**
-
-1. **Draw.io (diagrams.net)** - Free, web-based
-   - URL: https://app.diagrams.net/
-   - Perfect for system architecture diagrams
-   - Export to PNG, SVG, PDF
-
-2. **Lucidchart** - Professional tool
-   - URL: https://www.lucidchart.com/
-   - Excellent for workflow diagrams
-   - Collaboration features
-
-3. **Visio** - Microsoft Office
-   - Professional diagramming tool
-   - Extensive template library
-   - Integration with PowerPoint
-
-4. **Mermaid** - Code-based diagrams
-   - URL: https://mermaid.live/
-   - Text-to-diagram conversion
-   - GitHub integration
-
-5. **Figma** - Design tool
-   - URL: https://www.figma.com/
-   - Great for modern UI/UX diagrams
-   - Collaboration features
-
----
 
 ## 🔄 System Architecture Diagrams
 
