@@ -103,6 +103,28 @@
 - ISO 15118-3:2016 (Physical layer)
 - ISO 15118-20:2022 (V2G requirements)
 
+### **What Each ISO 15118 Part Emphasizes:**
+
+- **ISO 15118-1:2019 — General Information and Use-Case Definition**
+    - Provides the overall framework, scope, and objectives of the standard.
+    - Defines key terms, actors, and use cases (AC, DC, wireless charging, V2G).
+    - Describes communication scenarios and high-level requirements for interoperability and security.
+
+- **ISO 15118-2:2016 — Network and Application Protocol Requirements**
+    - Core technical specification for EV and charging station communication.
+    - Defines message structure, session setup, authentication (Plug & Charge), charging control, payment, and security mechanisms.
+    - Enables smart charging, contract handling, and secure data exchange.
+
+- **ISO 15118-3:2016 — Physical and Data Link Layer Requirements**
+    - Specifies the physical and data link layer for wired (conductive) charging.
+    - Details Power Line Communication (PLC), signal characteristics, and data link protocols.
+    - Ensures reliable, robust, and interoperable hardware-level communication.
+
+- **ISO 15118-20:2022 — 2nd Generation Network and Application Protocol Requirements (V2G)**
+    - Expands protocol for bidirectional power transfer (V2G), AC/DC/wireless charging.
+    - Adds advanced smart charging, improved security, and modular protocol design.
+    - Supports fleet/commercial operations and future use cases.
+
 ### **Industry Organizations:**
 - **CharIN**: https://www.charin.global/
 - **OCA**: https://www.openchargealliance.org/
